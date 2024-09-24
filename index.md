@@ -32,3 +32,19 @@ a^2+b^2=c^2
 
 Akwaaba 
 
+### Lists
+- Kwame
+- Kweku
+- Kwesi
+- Kojo
+- Kwabena
+1. Oranges
+2. mangoes
+3. grapes
+
+### Sub-bullets
+
+
+- [x] task number 1
+- [ ] task number 1
+
